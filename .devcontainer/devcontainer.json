@@ -2,7 +2,7 @@
 	"name": "blargbot-rs",
 	"dockerComposeFile": "docker-compose.yaml",
 	"service": "editor",
-	"workspaceFolder": "/workspaces/blargbot",
+	"workspaceFolder": "/workspaces/blargbot-rs",
 	"customizations": {
 		"vscode": {
 			"settings": {},
