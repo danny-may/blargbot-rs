@@ -1,4 +1,2 @@
-FROM mcr.microsoft.com/devcontainers/typescript-node:16
-RUN sudo apt-get update
-RUN sudo apt-get -y install build-essential libcairo2-dev libpango1.0-dev libjpeg-dev libgif-dev librsvg2-dev graphicsmagick
+FROM mcr.microsoft.com/devcontainers/rust:2-1-bullseye
 ENTRYPOINT [ "sleep", "infinity" ]
