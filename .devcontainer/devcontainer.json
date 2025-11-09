@@ -1,5 +1,5 @@
 {
-	"name": "Blargbot",
+	"name": "blargbot-rs",
 	"dockerComposeFile": "docker-compose.yaml",
 	"service": "editor",
 	"workspaceFolder": "/workspaces/blargbot",
