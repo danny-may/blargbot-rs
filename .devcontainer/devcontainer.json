@@ -2,7 +2,6 @@
 	"name": "Blargbot",
 	"dockerComposeFile": "docker-compose.yaml",
 	"service": "editor",
-	"postStartCommand": "yarn",
 	"workspaceFolder": "/workspaces/blargbot",
 	"customizations": {
 		"vscode": {
